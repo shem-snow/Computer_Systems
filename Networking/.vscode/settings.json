@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "edited": "c",
+        "original": "c",
+        "unordered_map": "c",
+        "chrono": "c",
+        "__locale": "c"
+    }
+}

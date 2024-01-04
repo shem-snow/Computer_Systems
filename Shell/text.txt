@@ -1,0 +1,7 @@
+[u1058151@lab2-26 ass4]$ make test17
+./sdriver.pl -t trace17.txt -s ./tsh -a "-p"
+#
+# trace17.txt - Tests piping between two commands
+#
+make: *** [Makefile:58: test17] Broken pipe
+
