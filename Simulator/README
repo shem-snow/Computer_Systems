@@ -1,1 +1,7 @@
-This program is a C implementation of a set of assembly instructions. It's called simulator because it 'simulates' a CPU.
+This program is a 'simuluator' of a CPU (kind of).
+
+It receives a string which is intended to be an instruction in assembly code that supports only a few arithmetic operations.
+
+It decodes that string to determine which instruction was received and handles invalid instructions by aborting them.
+
+Then it performs the instruction and sets the appropriate flags (CF, ZF, SF, OF).
